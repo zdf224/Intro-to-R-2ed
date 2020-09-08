@@ -1,4 +1,4 @@
-# R script to accopany Intro to R
+# R script to accompany Intro to R
 # Copy for RStudent 2019
 ######################################################
 
